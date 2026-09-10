@@ -9,3 +9,15 @@
 *.csproj
 *.sln
 Assets/Phyisics room Obj/Room.obj
+/Artifacts/
+/.utmp/
+/.vs/
+/.idea/
+*.user
+*.log
+.env
+.env.*
+Assets/VLABChemistryLab/Prefabs/XR/Simulator Backup*
+Assets/_Recovery/
+Assets/_Recovery.meta
+Assets/InitTestScene*.unity*
