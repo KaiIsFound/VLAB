@@ -1,3 +1,16 @@
+# Chemistry Lab upgrade — 2026-09-10
+
+This branch adds a tested Chemistry Lab scene while retaining the original Home and Physics Lab assets below. The default build scene is now `Assets/ChemistryLab.unity`; open the original scenes manually to work on Physics Lab.
+
+- Unity 6000.5.6f1, Built-in renderer, XRI 3.5.1.
+- Open `Assets/ChemistryLab.unity`, choose Desktop or XRSimulator on ChemistryLabModeController, then Play. Do not regenerate the scene just to play.
+- Mouse grabbing, measured pouring, reagent reset, pour aiming, safe teleport and snap 30 degrees.
+- Persistent settings: four graphics presets, mouse sensitivity, master volume, pour-guide visibility; bounded button-audio pool.
+- [Quick start](docs/DEMO_QUICK_START.md), [remaining tasks](docs/VLAB_TASK_DIFFICULTY.md), [release verification](docs/GIT_RELEASE_20260910.md).
+- Real VR hardware, full physical Daniell/electrolysis, and the complete P2–P7 roadmap are not claimed complete.
+
+---
+
 # VLAB — Virtual Laboratory
 
 <p align="center">

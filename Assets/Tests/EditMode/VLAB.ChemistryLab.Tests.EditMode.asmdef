@@ -1,0 +1,26 @@
+{
+  "name": "VLAB.ChemistryLab.Tests.EditMode",
+  "rootNamespace": "VLAB.ChemistryLab.Tests",
+  "references": [
+    "VLAB.ChemistryLab",
+    "Unity.InputSystem",
+    "Unity.XR.Management",
+    "Unity.XR.Management.Editor",
+    "Unity.XR.OpenXR",
+    "Unity.XR.OpenXR.Editor"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false,
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}
